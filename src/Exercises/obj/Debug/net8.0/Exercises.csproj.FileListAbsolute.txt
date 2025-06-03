@@ -1,0 +1,11 @@
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/bin/Debug/net8.0/Exercises.deps.json
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/bin/Debug/net8.0/Exercises.dll
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/bin/Debug/net8.0/Exercises.pdb
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.AssemblyInfoInputs.cache
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.AssemblyInfo.cs
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.csproj.CoreCompileInputs.cache
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.dll
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/refint/Exercises.dll
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.pdb
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/ref/Exercises.dll
