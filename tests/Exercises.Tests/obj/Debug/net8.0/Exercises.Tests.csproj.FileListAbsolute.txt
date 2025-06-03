@@ -99,3 +99,4 @@
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.pdb
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.genruntimeconfig.cache
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/ref/Exercises.Tests.dll
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.sourcelink.json

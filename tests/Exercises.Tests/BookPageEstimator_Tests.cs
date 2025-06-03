@@ -1,7 +1,7 @@
-using Exercises;
 using Xunit;
+using Exercises;
 
-namespace Exercises.Tests;
+namespace Tests;
 
 public class BookPageEstimator_Tests
 {

@@ -9,3 +9,4 @@
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/refint/Exercises.dll
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.pdb
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/ref/Exercises.dll
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/src/Exercises/obj/Debug/net8.0/Exercises.sourcelink.json
