@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio / VSCode / Rider settings
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Mac system files
+.DS_Store
+
+# Test results
+TestResults/
+
+# Logs
+*.log 
