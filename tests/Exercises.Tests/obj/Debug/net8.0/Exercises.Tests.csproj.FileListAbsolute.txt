@@ -93,10 +93,10 @@
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.AssemblyInfoInputs.cache
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.AssemblyInfo.cs
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.csproj.CoreCompileInputs.cache
+/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.sourcelink.json
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercise.AFE77562.Up2Date
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.dll
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/refint/Exercises.Tests.dll
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.pdb
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.genruntimeconfig.cache
 /Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/ref/Exercises.Tests.dll
-/Users/rensbressers/FunProjects/blitz/learnings/dotnet-exercises/tests/Exercises.Tests/obj/Debug/net8.0/Exercises.Tests.sourcelink.json
